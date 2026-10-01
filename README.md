@@ -1,3 +1,6 @@
 # PentaManagement
 For School Project 
-SADASDADSA
+
+Scrum Master: Bergonia, John Lloyd
+UI Designer: De Guzman III, Avelino Mico C.
+Tester: Pareja, Alvin S.
